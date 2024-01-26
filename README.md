@@ -28,3 +28,7 @@
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-333333?style=flat&logo=spring-boot)
+
+### Business Intelligence:
+
+![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi)
