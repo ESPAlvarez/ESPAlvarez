@@ -3,6 +3,10 @@
    <h3 align="center">Hi, I'm Eder 👋🏾 👨🏾‍💻</h3>
 </p>
 
+## 👋 About Me
+
+I am an analyst and software developer. I worked on a group thesis project aimed at improving the document management of information for community mothers at ICBF, utilizing tools such as Java, Spring Boot, Angular, and MySQL. Currently, I am working on another project for a company where a Python ETL was requested to generate reports from databases in Power BI. In addition, I am in my practical phase as a software analyst and developer at High Quality Marketing Intelligence (HQ-MI), where I am learning and contributing in my role.
+
 ## 🛠️ Skills
 
 ### Programming Languages:
